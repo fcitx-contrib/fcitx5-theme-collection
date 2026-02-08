@@ -14,9 +14,8 @@ Here is a preview of the theme.
 
 1. Download the `catppuccin` folder from this repository.
 2. Import `catppuccin.conf` via `Theme Manager -> Basic`.
-3. Import `panel.png` via `Theme Manager -> Background`.
-4. Install the `LXGW WenKai` font, or configure the theme to use any other font you prefer.
-5. Enjoy!
+3. Install the `LXGW WenKai` font, or configure the theme to use any other font you prefer.
+4. Enjoy!
 
 ## Credits
 
